@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/busenurcetin/PHP-Notlar)
+![GitHub stars](https://img.shields.io/github/stars/busenurcetin/PHP-Notlar?style=social)
+![GitHub forks](https://img.shields.io/github/forks/busenurcetin/PHP-Notlar?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/busenurcetin16?style=social)](https://twitter.com/intent/follow?screen_name=busenurcetin16)
+
 # <h1 style="text-align:center; color:red;"> PHP - Notlar </h1>
 
 ## Web Teknolojileri (PHP) Dersi İçin Aldığım, Final Dönemimde Bana Fazlaca Yardımcı Olan PHP Notlarımı Size De Yardımcı Olması Umuduyla Paylaşıyorum.
