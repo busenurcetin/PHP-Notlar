@@ -1,0 +1,5 @@
+git status   --> Durum kontrolü
+git add *    --> Staging Area'ya alma
+git status   --> Durum kontrolü
+git commit -m "Açıklama" --> Local Repo 
+git push origin master   --> Remote Repo'ya gönderme
