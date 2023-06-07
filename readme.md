@@ -4,7 +4,7 @@
 
 <br>
 
-### Bu Notlarda Dersin Öğretim Görevlisi Mehmet Can Hanaylı'nın Fazlaca Emeği Vardır. Notların Büyük Bir Kısmı Ondan Alınmıştır. İzin Verdiği Ve Destek Olduğu İçin Kendisine Teşekkür Ederim.
+### Bu Notlarda Dersin Öğretim Görevlisi [Mehmet Can Hanaylı](https://github.com/mehmethanayli)'nın Fazlaca Emeği Vardır. Notların Büyük Bir Kısmı Ondan Alınmıştır. İzin Verdiği Ve Destek Olduğu İçin Kendisine Teşekkür Ederim.
 
 <br>
 
